@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
-  "homepage": "https://snidbert64.github.io",
+  "homepage": "https://snidbert64.github.io/clicky-game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
